@@ -46,7 +46,7 @@ namespace PaintTogetherNET
     static internal class CatnipDatabase
     {
         static public bool appClosing = false;
-        public const string CURRENT_VERSION = "ver_a034_e";
+        public const string CURRENT_VERSION = "ver_a035_a";
         static public bool loadMainMenu = false;
         static public bool shouldUpdateLogMon = false;
         static public string currentLogMonString = "";
